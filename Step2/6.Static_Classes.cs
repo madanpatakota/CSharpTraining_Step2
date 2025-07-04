@@ -33,7 +33,7 @@ static class Logger
     }
 
     static void LogError(string Message)
-    {
+{
         Logger.LogMessage("Error", Message);
     }
 
