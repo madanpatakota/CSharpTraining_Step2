@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>StudentResume</StartupObject>
+    <StartupObject>MainProgramSystem.MainProgram</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,7 +48,17 @@
   <ItemGroup>
     <Compile Include="1.FileldBasics.cs" />
     <Compile Include="2.Properties.cs" />
+<<<<<<< HEAD
     <Compile Include="6.Static_Classes.cs" />
+=======
+    <Compile Include="3.Constructors.cs" />
+    <Compile Include="4.ConstReadOnly.cs" />
+    <Compile Include="5.Namespaces\1.AllFiles.cs" />
+    <Compile Include="5.Namespaces\2.ExcelFiles.cs" />
+    <Compile Include="5.Namespaces\3.PPTFiles.cs" />
+    <Compile Include="5.Namespaces\4.WordFiles.cs" />
+    <Compile Include="5.Namespaces\5.MainProgram.cs" />
+>>>>>>> 3fea37b9a295e2ee351a56c7889aa010de7da05e
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -57,5 +67,6 @@
   <ItemGroup>
     <Content Include="MyNotes.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
