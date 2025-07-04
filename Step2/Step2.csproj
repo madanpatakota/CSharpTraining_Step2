@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MainProgramSystem.MainProgram</StartupObject>
+    <StartupObject>StaticAndNonStaticMembers.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -55,6 +55,9 @@
     <Compile Include="5.Namespaces\3.PPTFiles.cs" />
     <Compile Include="5.Namespaces\4.WordFiles.cs" />
     <Compile Include="5.Namespaces\5.MainProgram.cs" />
+    <Compile Include="6.Static_Classes.cs" />
+    <Compile Include="7.StaticVsNonStatic\1.Instantiate.cs" />
+    <Compile Include="7.StaticVsNonStatic\2.Members.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
