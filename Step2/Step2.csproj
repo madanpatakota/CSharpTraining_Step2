@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="1.FileldBasics.cs" />
     <Compile Include="2.Properties.cs" />
+    <Compile Include="6.Static_Classes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
