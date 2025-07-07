@@ -48,9 +48,7 @@
   <ItemGroup>
     <Compile Include="1.FileldBasics.cs" />
     <Compile Include="2.Properties.cs" />
-<<<<<<< HEAD
     <Compile Include="6.Static_Classes.cs" />
-=======
     <Compile Include="3.Constructors.cs" />
     <Compile Include="4.ConstReadOnly.cs" />
     <Compile Include="5.Namespaces\1.AllFiles.cs" />
