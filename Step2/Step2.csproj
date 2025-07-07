@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>StaticAndNonStaticMembers.Program</StartupObject>
+    <StartupObject>Family.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,16 +49,13 @@
     <Compile Include="1.FileldBasics.cs" />
     <Compile Include="2.Properties.cs" />
     <Compile Include="6.Static_Classes.cs" />
-    <Compile Include="3.Constructors.cs" />
-    <Compile Include="4.ConstReadOnly.cs" />
-    <Compile Include="5.Namespaces\1.AllFiles.cs" />
-    <Compile Include="5.Namespaces\2.ExcelFiles.cs" />
-    <Compile Include="5.Namespaces\3.PPTFiles.cs" />
-    <Compile Include="5.Namespaces\4.WordFiles.cs" />
-    <Compile Include="5.Namespaces\5.MainProgram.cs" />
     <Compile Include="6.Static_Classes.cs" />
     <Compile Include="7.StaticVsNonStatic\1.Instantiate.cs" />
     <Compile Include="7.StaticVsNonStatic\2.Members.cs" />
+    <Compile Include="7.StaticVsNonStatic\3.LiveExample.cs" />
+    <Compile Include="8.Inheritance\1.ClassInheritance.cs" />
+    <Compile Include="8.Inheritance\2.InterfaceInheritance.cs" />
+    <Compile Include="9.Implementation\1.InterfaceBasics.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
