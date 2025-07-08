@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Family.Program</StartupObject>
+    <StartupObject>RemotingSystem.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="1.FileldBasics.cs" />
+    <Compile Include="10.Abstraction\Vehicle.cs" />
     <Compile Include="2.Properties.cs" />
     <Compile Include="6.Static_Classes.cs" />
     <Compile Include="6.Static_Classes.cs" />
@@ -56,6 +57,7 @@
     <Compile Include="8.Inheritance\1.ClassInheritance.cs" />
     <Compile Include="8.Inheritance\2.InterfaceInheritance.cs" />
     <Compile Include="9.Implementation\1.InterfaceBasics.cs" />
+    <Compile Include="9.Implementation\2.TVControlSystem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
