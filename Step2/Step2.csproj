@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>RemotingSystem.Program</StartupObject>
+    <StartupObject>RunTimePolyMorphismSystem.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -58,6 +58,8 @@
     <Compile Include="8.Inheritance\2.InterfaceInheritance.cs" />
     <Compile Include="9.Implementation\1.InterfaceBasics.cs" />
     <Compile Include="9.Implementation\2.TVControlSystem.cs" />
+    <Compile Include="Polymorphism\1.CompileTime.cs" />
+    <Compile Include="Polymorphism\2.Runtime.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
